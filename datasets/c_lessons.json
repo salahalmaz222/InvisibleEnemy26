@@ -1,0 +1,5 @@
+{
+  "variables": "Variables store values: int x = 5;",
+  "loops": "For loop example: for(int i=0;i<10;i++)",
+  "functions": "Functions allow reusable logic."
+}

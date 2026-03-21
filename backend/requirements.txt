@@ -1,0 +1,9 @@
+
+flask
+flask-cors
+flask-jwt-extended
+opencv-python
+mediapipe
+tensorflow
+numpy
+sqlite3
